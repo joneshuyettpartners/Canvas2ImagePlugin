@@ -1,3 +1,5 @@
+### Additional Fork Note: no updates have been made to the source code from WBT11a's original fork, I just needed to get this version into NPM.
+
 ### Fork Note:  This uses some minor modifications of my own combined with the work of Tommy-Carlos Williams and ThalesValentim to return the absolute path of the image in IOS, with a semi-unique filename.  Usage remains the same.  Essentially, it has been brought inline with the android version.
 
 Canvas2ImagePlugin
